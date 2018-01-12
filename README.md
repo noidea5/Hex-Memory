@@ -14,19 +14,14 @@ Take a screen shot of your image, then use the [Markdown cheat sheet](https://gi
 
 5. Switch to the [color version](http://cs.ucls.uchicago.edu/~bfranke/codeDotOrg/Pixelation/Pixelation_v3.html). Set the “bits per pixel” to 24. In this mode, for each pixel, the first byte represents the amount of red, the second byte the amount of green, and the third byte the amount of blue. 
 
-6 To practice, recreate a few pixels of the image below (they don’t have to exactly match the colors in the picture. Hint: for shades of gray, try making the R, G, B values similar to each other). Suggestion: use a [decimal to binary convertor](http://www.binaryhexconverter.com/decimal-to-binary-converter)!
+6. To practice, recreate a few pixels of the image below (they don’t have to exactly match the colors in the picture. Hint: for shades of gray, try making the R, G, B values similar to each other). Suggestion: use a [decimal to binary convertor](http://www.binaryhexconverter.com/decimal-to-binary-converter)!
 
 Example:
 00000011 ← width
-
 00000001 ← height
-
 00000000  ← amount of red
-
 11111111  ← amount of green
-
 11111111  ← amount of blue	
-
 00000000
 11111111
 00001111
