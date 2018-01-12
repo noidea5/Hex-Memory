@@ -7,6 +7,7 @@
 3. Use the tool [here](http://cs.ucls.uchicago.edu/~bfranke/codeDotOrg/Pixelation/Pixelation_v2.html) to encode a black and white image of your own design. Note that the first two bytes in the image bit stream represent the width and height (why are these needed?) 
 
 ![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/aarf.png "bit stream example")
+
 4. Share the bit stream and image with your classmates. (Example above by Noah Wong, Spring 2016).
 
 Create a Google doc called YourName_hex. Put your bit stream (0s and 1s) and your image into the file. Upload it to the Hex Projects folder in this repository.
@@ -23,18 +24,18 @@ Take a screen shot of your image, then use the [Markdown cheat sheet](https://gi
 
 ![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/colorgrid.png "bit stream example")
 
-*Example:
-*00000011 ← width
-*00000001 ← height
-*00000000  ← amount of red
-*11111111  ← amount of green
-*11111111  ← amount of blue	
-*00000000
-*11111111
-*00001111
-*11111111
-*11111111
-*00001111
+* Example:
+* 00000011 ← width
+* 00000001 ← height
+* 00000000  ← amount of red
+* 11111111  ← amount of green
+* 11111111  ← amount of blue	
+* 00000000
+* 11111111
+* 00001111
+* 11111111
+* 11111111
+* 00001111
 
 
 Use this base conversion Snap block to convert the following numbers from decimal to hexadecimal (jot the answers down on a piece of scratch paper):
