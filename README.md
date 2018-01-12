@@ -6,12 +6,15 @@
 
 3. Use the tool [here](http://cs.ucls.uchicago.edu/~bfranke/codeDotOrg/Pixelation/Pixelation_v2.html) to encode a black and white image of your own design. Note that the first two bytes in the image bit stream represent the width and height (why are these needed?) 
 
-Share the bit stream and image with your classmates using this file (add your name too so I can give you credit!)
-Example to the right by Noah Wong, Spring 2016
+4. Share the bit stream and image with your classmates:
+Create a new file in the Hex Projects folder in this document. Name it YourName.md and paste your bit stream (your 0s and 1s) into the document.
+Take a screen shot of your image, then use the [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) to add the image into your document. Example to the below by Noah Wong, Spring 2016
+(Markdown is a lightweight language for styling text on the web. It's really useful on Github.)
 
-Switch to the color version. Set the “bits per pixel” to 24. In this mode, for each pixel, the first byte represents the amount of red, the second byte the amount of green, and the third byte the amount of blue. 
 
-To practice, recreate a few pixels of the image below (they don’t have to exactly match the colors in the picture. Hint: for shades of gray, try making the R, G, B values similar to each other). Suggestion: use a decimal to binary convertor!
+5. Switch to the color version. Set the “bits per pixel” to 24. In this mode, for each pixel, the first byte represents the amount of red, the second byte the amount of green, and the third byte the amount of blue. 
+
+6 To practice, recreate a few pixels of the image below (they don’t have to exactly match the colors in the picture. Hint: for shades of gray, try making the R, G, B values similar to each other). Suggestion: use a decimal to binary convertor!
 
 Example:
 00000011 ← width
@@ -25,6 +28,8 @@ Example:
 11111111
 11111111
 00001111
+
+
 Use this base conversion Snap block to convert the following numbers from decimal to hexadecimal (jot the answers down on a piece of scratch paper):
 		10
 		82
