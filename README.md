@@ -8,7 +8,7 @@
 
 4. Share the bit stream and image with your classmates. Example to the right by Noah Wong, Spring 2016 
 
-<img align="right" width="100" height="100" src="https://github.com/lizzybrooks/HexMemory/blob/master/images/aaf.png">
+<img align="right" width="100" height="100" src="Hex-Memory/images/aaf.png">
 
 ![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/aaf.png "bit stream example")
 
