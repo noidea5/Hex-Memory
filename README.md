@@ -7,7 +7,7 @@
 3. Use the tool [here](http://cs.ucls.uchicago.edu/~bfranke/codeDotOrg/Pixelation/Pixelation_v2.html) to encode a black and white image of your own design. Note that the first two bytes in the image bit stream represent the width and height (why are these needed?) 
 
 4. Share the bit stream and image with your classmates. Example to the right by Noah Wong, Spring 2016 
-![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/aaf.png | width=100 "bit stream example")
+![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/aaf.png width=100 "bit stream example")
 Create a Google doc called YourName_hex. Put your bit stream (0s and 1s) and your image into the file. Upload it to the Hex Projects folder in this repository.
 
 OR- if you're feeling ambitious: 
