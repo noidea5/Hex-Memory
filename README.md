@@ -6,11 +6,8 @@
 
 3. Use the tool [here](http://cs.ucls.uchicago.edu/~bfranke/codeDotOrg/Pixelation/Pixelation_v2.html) to encode a black and white image of your own design. Note that the first two bytes in the image bit stream represent the width and height (why are these needed?) 
 
-4. Share the bit stream and image with your classmates. Example to the right by Noah Wong, Spring 2016 
-
-<img align="right" width="100" height="100" src="https://static.pexels.com/photos/34950/pexels-photo.jpg">
-
-![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/aaf.png "bit stream example")
+![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/aarf.png "bit stream example")
+4. Share the bit stream and image with your classmates. (Example above by Noah Wong, Spring 2016).
 
 Create a Google doc called YourName_hex. Put your bit stream (0s and 1s) and your image into the file. Upload it to the Hex Projects folder in this repository.
 
@@ -24,18 +21,20 @@ Take a screen shot of your image, then use the [Markdown cheat sheet](https://gi
 
 6. To practice, recreate a few pixels of the image below (they don’t have to exactly match the colors in the picture. Hint: for shades of gray, try making the R, G, B values similar to each other). Suggestion: use a [decimal to binary convertor](http://www.binaryhexconverter.com/decimal-to-binary-converter)!
 
-Example:
-00000011 ← width
-00000001 ← height
-00000000  ← amount of red
-11111111  ← amount of green
-11111111  ← amount of blue	
-00000000
-11111111
-00001111
-11111111
-11111111
-00001111
+![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/colorgrid.png "bit stream example")
+
+*Example:
+*00000011 ← width
+*00000001 ← height
+*00000000  ← amount of red
+*11111111  ← amount of green
+*11111111  ← amount of blue	
+*00000000
+*11111111
+*00001111
+*11111111
+*11111111
+*00001111
 
 
 Use this base conversion Snap block to convert the following numbers from decimal to hexadecimal (jot the answers down on a piece of scratch paper):
