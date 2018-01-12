@@ -10,10 +10,10 @@
 
 4. Share the bit stream and image with your classmates. (Example above by Noah Wong, Spring 2016).
 
-Create a Google doc called YourName_hex. Put your bit stream (0s and 1s) and your image into the file. Upload it to the Hex Projects folder in this repository.
+* Create a Google doc called YourName_hex. Put your bit stream (0s and 1s) and your image into the file. Upload it to the Hex Projects folder in this repository.
 
 OR- if you're feeling ambitious: 
-Create a new file in the Hex Projects folder in this document. Name it YourName.md and paste your bit stream (your 0s and 1s) into the document.
+* Create a new file in the Hex Projects folder in this document. Name it YourName.md and paste your bit stream (your 0s and 1s) into the document.
 Take a screen shot of your image, then use the [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images) to add the image into your document. 
 (Markdown is a lightweight language for styling text on the web. It's really useful on Github.)
 
