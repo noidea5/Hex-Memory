@@ -37,13 +37,17 @@ Take a screen shot of your image, then use the [Markdown cheat sheet](https://gi
 * 11111111
 * 00001111
 
+##The HEXADECIMAL system is a base 16 counting system. Wait-- how is that possible?
 
-Use this base conversion Snap block to convert the following numbers from decimal to hexadecimal (jot the answers down on a piece of scratch paper):
-		10
-		82
-		200
+Hex numbers actually use letters as part of their counting system. Here’s a [brief video from the Khan Academy](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/hexadecimal-number-system) that explains the hexadecimal system.
+
+7. Use [this base conversion Snap block](http://snap.berkeley.edu/snapsource/snap.html#present:Username=nataliefreed&ProjectName=hex%20and%20base%20block) to convert the following numbers from decimal to hexadecimal (jot the answers down on a piece of scratch paper):
+10
+82
+200
 255
-Switch to “hex mode” in the color editor. In this mode, each byte is represented by two hexadecimal digits (1 nibble, or half byte, maps to 1 hex digit). This mode matches the way colors for the web are specified! So you can use a web color picker to choose colors. Use hex mode to design a small icon for yourself. Save the bit stream under your name here.
+
+8. Switch to “hex mode” in the color editor. In this mode, each byte is represented by two hexadecimal digits (1 nibble, or half byte, maps to 1 hex digit). This mode matches the way colors for the web are specified! So you can use a [web color picker](http://www.colorpicker.com/) to choose colors. Use hex mode to design a small icon for yourself. Save the bit stream under your name here.
 
 Mapping between binary, hex, and decimal below:
 binary
