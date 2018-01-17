@@ -37,7 +37,7 @@ Take a screen shot of your image, then use the [Markdown cheat sheet](https://gi
 * 11111111
 * 00001111
 
-##The HEXADECIMAL system is a base 16 counting system. Wait-- how is that possible?
+## The HEXADECIMAL system is a base 16 counting system. Wait-- how is that possible?
 
 Hex numbers actually use letters as part of their counting system. Here’s a [brief video from the Khan Academy](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/hexadecimal-number-system) that explains the hexadecimal system.
 
@@ -49,7 +49,7 @@ Hex numbers actually use letters as part of their counting system. Here’s a [b
 
 8. Switch to “hex mode” in the color editor. In this mode, each byte is represented by two hexadecimal digits (1 nibble, or half byte, maps to 1 hex digit). This mode matches the way colors for the web are specified! So you can use a [web color picker](http://www.colorpicker.com/) to choose colors. Use hex mode to design a small icon for yourself. Save the bit stream under your name here.
 
-###Mapping between binary, hex(designated by 0x), and decimal below:
+### Mapping between binary, hex(designated by 0x), and decimal below:
 | Binary        | Hex           | Decimal  |
 | ------------- |:-------------:| -----:|
 |0000 0000      | 0x00          | 0     |
@@ -72,7 +72,7 @@ Hex numbers actually use letters as part of their counting system. Here’s a [b
 ...
 
 
-#Homework: 
+# Homework: 
 * Finish saving both of your images to the repository folder for credit.
 
 * Then, save to your shared folder two different photos that you like (not photos off the internet, but ones which you or someone you know has taken and which you have permission to use). You will be “hacking” the pixels of these images next class.
