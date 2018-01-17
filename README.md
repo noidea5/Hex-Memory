@@ -49,13 +49,8 @@ Hex numbers actually use letters as part of their counting system. Here’s a [b
 
 8. Switch to “hex mode” in the color editor. In this mode, each byte is represented by two hexadecimal digits (1 nibble, or half byte, maps to 1 hex digit). This mode matches the way colors for the web are specified! So you can use a [web color picker](http://www.colorpicker.com/) to choose colors. Use hex mode to design a small icon for yourself. Save the bit stream under your name here.
 
-Mapping between binary, hex, and decimal below:
-binary
-hex (designated by 0x)
-
-Colons can be used to align columns.
-
-| Binary        | Hex          | Decimal  |
+###Mapping between binary, hex(designated by 0x), and decimal below:
+| Binary        | Hex           | Decimal  |
 | ------------- |:-------------:| -----:|
 |0000 0000      | 0x00          | 0     |
 |0000 0001      |0x01           |1      | 
@@ -77,6 +72,9 @@ Colons can be used to align columns.
 ...
 
 
-Homework: Finish saving both of your images to the shared doc for credit.
-Then, save to your shared folder two different photos that you like (not photos off the internet, but ones which you or someone you know has taken and which you have permission to use). You will be “hacking” the pixels of these images next class.
-Finally, install a hex editor on your computer and open it to make sure it runs. Here’s one for Mac, Windows, Linux.
+#Homework: 
+* Finish saving both of your images to the repository folder for credit.
+
+* Then, save to your shared folder two different photos that you like (not photos off the internet, but ones which you or someone you know has taken and which you have permission to use). You will be “hacking” the pixels of these images next class.
+
+* Finally, install a hex editor on your computer and open it to make sure it runs. Here’s one for Mac, Windows, Linux.
