@@ -48,49 +48,34 @@ Switch to “hex mode” in the color editor. In this mode, each byte is represe
 Mapping between binary, hex, and decimal below:
 binary
 hex (designated by 0x)
+
+Colons can be used to align columns.
+
+| Binary        | Hex          | Decimal  |
+| ------------- |:-------------:| -----:|
+|0000 0000      | 0x00          | 0
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+|0000 0001 |0x01|1
+
+|0000 0010|0x02|2
+|0000 0011|0x03|3
+|0000 0100|0x04|4
+|0000 0101|0x05|5
+|0000 0110|0x06|6
+|0000 0111|0x07|7
+|0000 1000|0x08|8
+|0000 1001|0x09|9
+|0000 1010|0x0A|10
+|0000 1011|0x0B|11
+|0000 1100|0x0C|12
+|0000 1101|0x0D|13
+
 decimal
-0000 0000
-0x00
-0
-0000 0001
-0x01
-1
-0000 0010
-0x02
-2
-0000 0011
-0x03
-3
-0000 0100
-0x04
-4
-0000 0101
-0x05
-5
-0000 0110
-0x06
-6
-0000 0111
-0x07
-7
-0000 1000
-0x08
-8
-0000 1001
-0x09
-9
-0000 1010
-0x0A
-10
-0000 1011
-0x0B
-11
-0000 1100
-0x0C
-12
-0000 1101
-0x0D
-13
+
+
+
+
 0000 1110
 0x0E
 14
