@@ -77,4 +77,4 @@ Hex numbers actually use letters as part of their counting system. Here’s a [b
 
 * Then, save to your shared folder two different photos that you like (not photos off the internet, but ones which you or someone you know has taken and which you have permission to use). You will be “hacking” the pixels of these images next class.
 
-* Finally, install a hex editor on your computer and open it to make sure it runs. Here’s one for Mac, Windows, Linux.
+* Finally, install a hex editor on your computer and open it to make sure it runs. Here’s one for [Mac](http://ridiculousfish.com/hexfiend/) and [Windows](http://frhed.sourceforge.net/en/).
